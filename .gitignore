@@ -1,0 +1,11 @@
+# OAuth / API credentials
+client_secret.json
+token.json
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Local thumbnail downloads (use thumbnail_url instead)
+data/thumbnails/
